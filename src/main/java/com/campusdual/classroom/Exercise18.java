@@ -2,8 +2,6 @@ package com.campusdual.classroom;
 
 import com.campusdual.util.Utils;
 
-import java.io.ByteArrayOutputStream;
-
 public class Exercise18 {
 
 	public static void main(String[] args) {
